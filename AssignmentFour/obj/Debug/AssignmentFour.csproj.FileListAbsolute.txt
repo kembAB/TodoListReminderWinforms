@@ -1,0 +1,10 @@
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment4\AssignmentFour\AssignmentFour\bin\Debug\AssignmentFour.exe.config
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment4\AssignmentFour\AssignmentFour\bin\Debug\AssignmentFour.exe
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment4\AssignmentFour\AssignmentFour\bin\Debug\AssignmentFour.pdb
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment4\AssignmentFour\AssignmentFour\obj\Debug\AssignmentFour.Properties.Resources.resources
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment4\AssignmentFour\AssignmentFour\obj\Debug\AssignmentFour.csproj.GenerateResource.Cache
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment4\AssignmentFour\AssignmentFour\obj\Debug\AssignmentFour.exe
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment4\AssignmentFour\AssignmentFour\obj\Debug\AssignmentFour.pdb
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment4\AssignmentFour\AssignmentFour\obj\Debug\AssignmentFour.MainForm.resources
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment4\AssignmentFour\AssignmentFour\obj\Debug\AssignmentFour.AboutBox1.resources
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment4\AssignmentFour\AssignmentFour\obj\Debug\AssignmentFour.csprojResolveAssemblyReference.cache
